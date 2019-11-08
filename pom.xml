@@ -8,7 +8,7 @@
 	<artifactId>patterns</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>patterns</name>
-	<description>Examples of using architectural pattern</description>
+	<description>Examples of using architectural patterns</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
