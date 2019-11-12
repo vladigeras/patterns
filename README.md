@@ -5,4 +5,4 @@ This project contains examples of using architectural patterns on **Java** langu
 Singleton, Factory Method, Abstract Factory, Builder, Prototype
 
 ## Structural
-Adapter, Decorator, Facade, Proxy
+Adapter, Decorator, Facade, Proxy, Composite, Flyweight, Bridge
