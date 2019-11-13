@@ -6,3 +6,6 @@ Singleton, Factory Method, Abstract Factory, Builder, Prototype
 
 ## Structural
 Adapter, Decorator, Facade, Proxy, Composite, Flyweight, Bridge
+
+## Behavioral
+Iterator, Chain of Responsibility, Strategy
